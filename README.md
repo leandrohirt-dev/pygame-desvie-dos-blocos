@@ -25,4 +25,4 @@ blocos e pontuação.
 
 ## Aprenda Python do zero
 
-Quer aprender Python do zero? Conheça o [curso completo de Python](https://academify.com.br/).
+Quer aprender Python do zero? Conheça o [curso completo de Python](https://academify.com.br/#github-desvie-dos-blocos).
