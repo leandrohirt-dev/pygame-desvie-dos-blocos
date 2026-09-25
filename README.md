@@ -22,3 +22,7 @@ Use as setas **←** e **→** para mover o jogador. Feche a janela para sair.
 O arquivo `desvie_dos_blocos.py` contém o jogo completo. A pasta `passos/`
 mostra as quatro versões executáveis apresentadas no vídeo: janela, jogador,
 blocos e pontuação.
+
+## Aprenda Python do zero
+
+Quer aprender Python do zero? Conheça o [curso completo de Python](https://academify.com.br/).
